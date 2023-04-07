@@ -206,3 +206,6 @@ I have tried debug that  as well by placing the soilution file in every project 
 bit it still did not work
 so I decieded to Make it all over again and my Readme file is from the last attempt and I will be working on it till I get to the 3rd part.
 thanks
+
+2200
+This is my First Commit after starting the whole project and I am on part second 
