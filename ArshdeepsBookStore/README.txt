@@ -212,3 +212,6 @@ This is my First Commit after starting the whole project and I am on part second
 
 4/13/2023
 Started the assignment again after the whole new bwgining and copy two files to make the project run
+
+1540
+Fixed the Interface ISO.cs because of the mistake from the last project attempts
