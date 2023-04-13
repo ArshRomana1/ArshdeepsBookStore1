@@ -237,3 +237,8 @@ and then updated according to the slides and faced an error
 Error was that one of the functions called GetAll() wasnt defiend
 So i had to extend the interface ICategoryRepository.cs with the <Category>
 and it started workin just fine.
+
+1844
+Added a new folder called Category in the Area/Admin/Views
+and then We added a "view" in the Category folder called Index.cshtml
+and insterted the data inside the Index.cshtml page, provided in tye slides

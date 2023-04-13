@@ -22,8 +22,4 @@
     <ProjectReference Include="..\ArshdeepsBooks.Models\ArshdeepsBooks.Models.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Views\" />
-  </ItemGroup>
-
 </Project>
