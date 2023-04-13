@@ -215,3 +215,6 @@ Started the assignment again after the whole new bwgining and copy two files to 
 
 1540
 Fixed the Interface ISO.cs because of the mistake from the last project attempts
+
+1545
+Created a file called SP_Call.cs the zi have tranfered all the data from the slides to the file and it has been working without errors
