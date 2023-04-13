@@ -255,3 +255,16 @@ then added the data thats provided by professor and also added that js file to t
 which made in the previous step.
 
 Ran the Application and its working like a Charm  so far.
+1930
+
+Added buttons in category file : DELETE, EDIT AND CREATE NEW CATEGORY BUTTON
+
+Then added a new view called Upser.cshtml
+
+1940
+Created a partial view for Edit and Back button and modified them according to instructions
+_CreateAndBackToListButton.cshtml
+_EditAndBackToListButton.cshtml
+
+Modified asp-action in index.cshtml
+Added validations for the filed category name
