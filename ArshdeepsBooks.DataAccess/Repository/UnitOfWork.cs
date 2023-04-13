@@ -6,7 +6,7 @@ using System.Text;
 
 namespace ArshdeepsBooks.DataAccess.Repository
 {
-    class UnitOfWork
+    public class UnitOfWork : IUnitOfWork
     {
         private readonly ApplicationDbContext _db;
 

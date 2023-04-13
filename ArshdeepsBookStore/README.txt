@@ -225,3 +225,8 @@ Created a File called IUnitOfWork as a interface and updated the data according 
 1800
 Started the assignmnet againafter the class and Created the New file called UnitOfWork.cs, its a class inm the Repository folder
 and editing the File According to the slides
+
+1816
+updating the StartUp.cs file according to the slides
+initially the file didnt work,
+so i had to make the class public in the UnitOfWorks.cs and Extend the class in the UnitOfWork.cs
