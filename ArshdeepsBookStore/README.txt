@@ -243,8 +243,15 @@ Added a new folder called Category in the Area/Admin/Views
 and then We added a "view" in the Category folder called Index.cshtml
 and insterted the data inside the Index.cshtml page, provided in tye slides
 
-1650
+1850
 Ran the Application and it is working fine so far
 open the category page and it all good.
 
-Layout Updated along with the navigation.
+Layout Updated along with the navigation. by updating the_Layout.cshtml page
+
+1900
+cRAETED a new File .js in the wwwroot/js called category.js
+then added the data thats provided by professor and also added that js file to the index.cshtml file
+which made in the previous step.
+
+Ran the Application and its working like a Charm  so far.
