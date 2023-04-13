@@ -242,3 +242,9 @@ and it started workin just fine.
 Added a new folder called Category in the Area/Admin/Views
 and then We added a "view" in the Category folder called Index.cshtml
 and insterted the data inside the Index.cshtml page, provided in tye slides
+
+1650
+Ran the Application and it is working fine so far
+open the category page and it all good.
+
+Layout Updated along with the navigation.
