@@ -230,3 +230,10 @@ and editing the File According to the slides
 updating the StartUp.cs file according to the slides
 initially the file didnt work,
 so i had to make the class public in the UnitOfWorks.cs and Extend the class in the UnitOfWork.cs
+
+1833
+Craeted a New Controller called CategoryController.cs in the Areas/Admin folder
+and then updated according to the slides and faced an error
+Error was that one of the functions called GetAll() wasnt defiend
+So i had to extend the interface ICategoryRepository.cs with the <Category>
+and it started workin just fine.
