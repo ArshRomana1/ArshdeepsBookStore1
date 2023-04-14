@@ -22,6 +22,7 @@ namespace ArshdeepsBookStore.Areas.Admin.Controllers
             return View();
         }
 
+
         public IActionResult Upsert(int? id)
         {
             Category category = new Category();
@@ -35,8 +36,10 @@ namespace ArshdeepsBookStore.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            return View();
+            return View(category);
         }
+
+
         [HttpPost]
         [ValidateAntiForgeryToken]
 
@@ -61,6 +64,7 @@ namespace ArshdeepsBookStore.Areas.Admin.Controllers
 
             return View(category);
         }
+
         #region API CALLS
         [HttpGet]
 
@@ -70,6 +74,7 @@ namespace ArshdeepsBookStore.Areas.Admin.Controllers
             var allObj = _unitOfWork.Category.GetAll();
             return Json(new { data = allObj });
         }
+
 
         [HttpDelete]
 
@@ -85,7 +90,6 @@ namespace ArshdeepsBookStore.Areas.Admin.Controllers
             return Json(new { success = true, message = "Delete successful" });
 
         }
-
 
 
         #endregion
