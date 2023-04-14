@@ -1,4 +1,5 @@
-﻿using ArshdeepsBooks.Models;
+﻿using ArshdeepsBooks.DataAccess.Repository.IRepository;
+using ArshdeepsBooks.Models;
 using ArshdeepsBookStore.DataAccess.Data;
 using System;
 using System.Collections.Generic;

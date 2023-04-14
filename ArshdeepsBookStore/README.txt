@@ -319,3 +319,9 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
 
  Deleted the File Calle3d Product.cs, beecause I jumped steps and created it early. I was worried bracsue it can cause
  issues when i will try to update the database. I am about to do that.
+
+ 1950
+ I encountered an error when i update the database , in my IUnitofWork file
+ I was missing a using statement
+ so far everystep is working
+ 
