@@ -273,3 +273,10 @@ Added validations for the filed category name
 Added The Void Save Method in IUnitOfWork
 Removed the Save() Mwethod CategoryRepository.cs
 Moved the Save method with return Statement
+
+
+2025
+Added A delete fUNCTION CALLED function Delete(url) in the category.js file
+for deleting the Added Category in the page
+
+then added a method calld  public IActionResult Delete in the CategoryController.csx
