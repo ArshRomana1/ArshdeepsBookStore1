@@ -294,7 +294,11 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  Starting at the Part 3 , I created a file called Covertype.cs in the ArshdeepsBooks.Model 
  and then changed the data according to the file called Category.cs   
 
+ 4/14/2023
  1400
  created a file called Covertype.cs in the ArshdeepBooks.Models
  and the added public DbSet<CoverType> CoverTypes { get; set; } in theapplication Dbcontext.cs
  and then added the migrations
+
+ Migration created this file 
+ "20230414191744_AddCoverTypeToDb.Designer"
