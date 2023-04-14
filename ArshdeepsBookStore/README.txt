@@ -279,4 +279,17 @@ Moved the Save method with return Statement
 Added A delete fUNCTION CALLED function Delete(url) in the category.js file
 for deleting the Added Category in the page
 
-then added a method calld  public IActionResult Delete in the CategoryController.csx
+then added a method calld  public IActionResult Delete in the CategoryController.cs
+
+2040
+aFTER ALL  thios I tried to Run the application everything was fine
+untill I tied to update one of the Category 
+then i found out I have issue with one of the methods with upsert in CategoryContoller.cs
+
+ Aftwr fIXING THAT Application is workin alright and Its deleting and updating .
+ With that Part 2 of the assignmnet is done
+
+ On to the next Part 3
+ 2140
+ Starting at the Part 3 , I created a file called Covertype.cs in the ArshdeepsBooks.Model 
+ and then changed the data according to the file called Category.cs   
