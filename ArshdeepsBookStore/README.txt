@@ -306,3 +306,8 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  1937
  Created afile called CoverTypeRepository.cs in the Repository, as a class
  and then added the data using the part 2 as a refernece.
+
+ 1940
+ Just like the last step 
+ now i Made a file called ICoverTypeRepository.cs as a interface in the IRepository and then
+ made chnagex to it by taking ICategoryRepository.cs Reference
