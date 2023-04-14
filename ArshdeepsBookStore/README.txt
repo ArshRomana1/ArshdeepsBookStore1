@@ -268,3 +268,8 @@ _EditAndBackToListButton.cshtml
 
 Modified asp-action in index.cshtml
 Added validations for the filed category name
+
+2015
+Added The Void Save Method in IUnitOfWork
+Removed the Save() Mwethod CategoryRepository.cs
+Moved the Save method with return Statement
