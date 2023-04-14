@@ -316,3 +316,6 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  Now Made Some Modifications in the files Called "UnitOfWorks.cs" & "IUnitOfWorks.cs"
  to add the new files parameteres
  The changes I made were " public ICoverTypeRepository CoverType { get; private set; }" , " ICoverTypeRepository CoverType { get; }" Respectivelty
+
+ Deleted the File Calle3d Product.cs, beecause I jumped steps and created it early. I was worried bracsue it can cause
+ issues when i will try to update the database. I am about to do that.
