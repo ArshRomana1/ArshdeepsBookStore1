@@ -311,3 +311,8 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  Just like the last step 
  now i Made a file called ICoverTypeRepository.cs as a interface in the IRepository and then
  made chnagex to it by taking ICategoryRepository.cs Reference
+
+ 1942
+ Now Made Some Modifications in the files Called "UnitOfWorks.cs" & "IUnitOfWorks.cs"
+ to add the new files parameteres
+ The changes I made were " public ICoverTypeRepository CoverType { get; private set; }" , " ICoverTypeRepository CoverType { get; }" Respectivelty
