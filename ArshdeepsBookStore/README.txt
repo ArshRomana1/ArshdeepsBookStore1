@@ -325,3 +325,5 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  I was missing a using statement
  so far everystep is working
  
+ 1957
+ Now i added the Covertype into navigation , so we can access it easliy.
