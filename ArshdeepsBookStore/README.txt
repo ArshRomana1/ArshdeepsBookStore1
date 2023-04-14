@@ -302,3 +302,7 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
 
  Migration created this file 
  "20230414191744_AddCoverTypeToDb.Designer"
+
+ 1937
+ Created afile called CoverTypeRepository.cs in the Repository, as a class
+ and then added the data using the part 2 as a refernece.
