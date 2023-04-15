@@ -327,3 +327,8 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  
  1957
  Now i added the Covertype into navigation , so we can access it easliy.
+
+ 2003
+ We created a file called index.cshtml in the covertype folder that we also created in the views folder 
+ just lije we did for category option.
+ I tried running the program and it is showing a new page in the nav bar
