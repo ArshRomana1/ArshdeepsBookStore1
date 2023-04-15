@@ -332,3 +332,6 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  We created a file called index.cshtml in the covertype folder that we also created in the views folder 
  just lije we did for category option.
  I tried running the program and it is showing a new page in the nav bar
+
+ 2008
+ And now in wwwroot/js/ i created a file called covertype.js, which will consist all the javascript code for the CoverType
