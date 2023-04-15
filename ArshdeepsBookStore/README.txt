@@ -334,4 +334,9 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  I tried running the program and it is showing a new page in the nav bar
 
  2008
- And now in wwwroot/js/ i created a file called covertype.js, which will consist all the javascript code for the CoverType
+ And now in wwwroot/js/ i created a file called covertype.js,
+ which will consist all the javascript code for the CoverType
+
+ 2025
+ added a new Controller called CoverTypeController.cs and 
+ the modified according to Categorycontroller.cs
