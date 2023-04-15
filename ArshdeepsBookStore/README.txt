@@ -340,3 +340,7 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
  2025
  added a new Controller called CoverTypeController.cs and 
  the modified according to Categorycontroller.cs
+
+2030
+Now using the COverTypeController.cs file I created a upsert file for the covertype
+and then modified after.
