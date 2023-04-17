@@ -383,3 +383,11 @@ and then made the chnges to the files according to the slides
 
  1720
 created a file,"/Views/Shared/_Layout.cshtml";" and modified the field with the istructions
+
+1752
+Now I made a javascript file called prodyuct.js just like the other categories
+and then went to the layout page to add the "Products" to the dopdown menu
+
+1815
+Created an upsert for the product controller for enrering the different products 
+and then modified the file with the data provided.
