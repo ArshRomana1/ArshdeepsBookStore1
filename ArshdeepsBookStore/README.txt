@@ -346,4 +346,11 @@ Now using the COverTypeController.cs file I created a upsert file for the covert
 and then modified after.
 
 4/26/2023
+
+1628
 Added A class called product.cs in the .models project and the fillowed the instructions jusk like Categorty.cs.
+
+1630
+made chnges to the ApplicationDb "public DbSet<Product> Products { get; set; }" and adding Migrations ,
+with command "add-migration addProductToDb"
+checked the products, it is showing in the Database table
