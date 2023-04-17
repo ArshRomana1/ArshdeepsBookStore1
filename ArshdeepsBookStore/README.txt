@@ -370,3 +370,10 @@ and then made the chnges to the files according to the slides
 1655
  added "IProductRepository Product { get; }" and " public IProductRepository Product { get; private set; }" 
  to files IUnitOfWork.cs and UnitOfWork.cs Repectively
+
+ 1658
+ Added a new contoller Called "Roductcontroller.cs" and then modified the file
+ and the i went to .models Project/ViewModels/ added a file called ProductVM.cs there.
+ And then modified that file as well as per the Instructions.
+
+ Faced an error in the ProductVM.cs file and then Solved it with the "using Microsoft.AspNetCore.Mvc.Rendering;" statement
