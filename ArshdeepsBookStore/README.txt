@@ -354,3 +354,11 @@ Added A class called product.cs in the .models project and the fillowed the inst
 made chnges to the ApplicationDb "public DbSet<Product> Products { get; set; }" and adding Migrations ,
 with command "add-migration addProductToDb"
 checked the products, it is showing in the Database table
+
+Here is the TimeStamp for adding Product to database "20230417203027_addProductToDb.Designer.cs"
+
+1636
+Then I added Validation to the Product.cs fields as asked in the slides 
+such as on Title, ISBN etc.
+Then ran migration again and updated the database
+"20230417204011_addValidationToProduct.Designer.cs" Here is the TimeStamp for Validations
