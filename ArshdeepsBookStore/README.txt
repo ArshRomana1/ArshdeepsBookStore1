@@ -344,3 +344,6 @@ then i found out I have issue with one of the methods with upsert in CategoryCon
 2030
 Now using the COverTypeController.cs file I created a upsert file for the covertype
 and then modified after.
+
+4/26/2023
+Added A class called product.cs in the .models project and the fillowed the instructions jusk like Categorty.cs.
