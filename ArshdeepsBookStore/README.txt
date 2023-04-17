@@ -366,3 +366,7 @@ Then ran migration again and updated the database
 1649
 Created two files Called ProduxtRepository as class and then IproductRepository.cs as a interface
 and then made the chnges to the files according to the slides
+
+1655
+ added "IProductRepository Product { get; }" and " public IProductRepository Product { get; private set; }" 
+ to files IUnitOfWork.cs and UnitOfWork.cs Repectively
