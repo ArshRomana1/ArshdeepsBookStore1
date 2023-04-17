@@ -377,3 +377,6 @@ and then made the chnges to the files according to the slides
  And then modified that file as well as per the Instructions.
 
  Faced an error in the ProductVM.cs file and then Solved it with the "using Microsoft.AspNetCore.Mvc.Rendering;" statement
+
+ 1713
+ Modified the productController.cs file as the given instructions. So the IActionResult Upsert calls to the ProductVM view model
