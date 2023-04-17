@@ -380,3 +380,6 @@ and then made the chnges to the files according to the slides
 
  1713
  Modified the productController.cs file as the given instructions. So the IActionResult Upsert calls to the ProductVM view model
+
+ 1720
+created a file,"/Views/Shared/_Layout.cshtml";" and modified the field with the istructions
