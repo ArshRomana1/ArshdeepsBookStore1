@@ -391,3 +391,10 @@ and then went to the layout page to add the "Products" to the dopdown menu
 1815
 Created an upsert for the product controller for enrering the different products 
 and then modified the file with the data provided.
+
+1820
+tried to running the app but facing an error,its throwing an exception "System.NullReferenceException: 'Object reference not set to an instance of an object.'"
+
+Its 1854 and i am still working on the same error, if this get sorted i think i will be done with the assignmnet
+but for now next class is here and i need to go now.
+It was frustrating.
