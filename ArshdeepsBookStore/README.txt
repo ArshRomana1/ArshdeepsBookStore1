@@ -362,3 +362,7 @@ Then I added Validation to the Product.cs fields as asked in the slides
 such as on Title, ISBN etc.
 Then ran migration again and updated the database
 "20230417204011_addValidationToProduct.Designer.cs" Here is the TimeStamp for Validations
+
+1649
+Created two files Called ProduxtRepository as class and then IproductRepository.cs as a interface
+and then made the chnges to the files according to the slides
