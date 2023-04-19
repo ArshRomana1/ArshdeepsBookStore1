@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AndrewsBooks.Utility\AndrewsBooks.Utility.csproj" />
+    <ProjectReference Include="..\AndrewsBooks.Utility\ArshdeepsBooks.Utility.csproj" />
     <ProjectReference Include="..\ArshdeepsBooks.Models\ArshdeepsBooks.Models.csproj" />
   </ItemGroup>
 

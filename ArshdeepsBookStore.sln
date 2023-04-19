@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArshdeepsBookStore", "ArshdeepsBookStore\ArshdeepsBookStore.csproj", "{93C91D7A-1D3F-4D93-87C4-4FF242FFF3C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArshdeepsBookStore", "ArshdeepsBookStore\ArshdeepsBookStore.csproj", "{93C91D7A-1D3F-4D93-87C4-4FF242FFF3C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArshdeepsBooks.DataAccess", "ArshdeepsBooks.DataAccess\ArshdeepsBooks.DataAccess.csproj", "{D994CE7A-C40C-4619-8B8F-399DEB5C8E13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArshdeepsBooks.DataAccess", "ArshdeepsBooks.DataAccess\ArshdeepsBooks.DataAccess.csproj", "{D994CE7A-C40C-4619-8B8F-399DEB5C8E13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArshdeepsBooks.Models", "ArshdeepsBooks.Models\ArshdeepsBooks.Models.csproj", "{3E7E8212-DF73-4ADB-B58F-C4EA57F7E73C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArshdeepsBooks.Models", "ArshdeepsBooks.Models\ArshdeepsBooks.Models.csproj", "{3E7E8212-DF73-4ADB-B58F-C4EA57F7E73C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndrewsBooks.Utility", "AndrewsBooks.Utility\AndrewsBooks.Utility.csproj", "{59EBCE1F-7410-458E-B786-16A985453DBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArshdeepsBooks.Utility", "AndrewsBooks.Utility\ArshdeepsBooks.Utility.csproj", "{59EBCE1F-7410-458E-B786-16A985453DBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
