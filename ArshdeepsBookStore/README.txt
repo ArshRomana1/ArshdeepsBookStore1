@@ -417,3 +417,6 @@ Tried to fix the errors , one of them being product page is not loading properly
 Still no luck withit .
 Will work on it tomorrow.
 Meanwhile I maede chnages in the UnitOfWork, thats where the errors are, Exception is thrown on "LINE 36"
+
+1359
+I maede chnages in the UnitOfWork, thats where the errors are, Exception is thrown on "LINE 36"
