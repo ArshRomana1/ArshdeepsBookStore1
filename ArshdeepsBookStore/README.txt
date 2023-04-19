@@ -398,3 +398,16 @@ tried to running the app but facing an error,its throwing an exception "System.N
 Its 1854 and i am still working on the same error, if this get sorted i think i will be done with the assignmnet
 but for now next class is here and i need to go now.
 It was frustrating.
+
+
+4/19/2023
+1245
+Starting different approach with this one, I am starting to fix the covertype first to add and delete the covertype
+for that I had to make changes in 3 files such as
+Upsert.cshtml for the coverType
+UnitofWork.cs
+_Layout.cshtml
+
+1259
+MAde chnages in the files such as product.js to make the delete fucntion work after the adding the entry.
+then also chnages the list tyoe in upsert of the product to show different covertypes.
