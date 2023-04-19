@@ -419,4 +419,4 @@ Will work on it tomorrow.
 Meanwhile I maede chnages in the UnitOfWork, thats where the errors are, Exception is thrown on "LINE 36"
 
 1359
-I maede chnages in the UnitOfWork, thats where the errors are, Exception is thrown on "LINE 36"
+One of my project is shwoing wrong name, I guess I have to find out how to change that as well.
