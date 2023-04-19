@@ -70,6 +70,7 @@ namespace ArshdeepsBookStore.Areas.Admin.Controllers
                 if (product.Id == 0)
                 {
                     _unitOfWork.Product.Add(product);
+                    _unitOfWork.Save();
                 }
                 else
                 {

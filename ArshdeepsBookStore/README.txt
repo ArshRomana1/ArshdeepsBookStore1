@@ -411,3 +411,9 @@ _Layout.cshtml
 1259
 MAde chnages in the files such as product.js to make the delete fucntion work after the adding the entry.
 then also chnages the list tyoe in upsert of the product to show different covertypes.
+
+1318
+Tried to fix the errors , one of them being product page is not loading properly.
+Still no luck withit .
+Will work on it tomorrow.
+Meanwhile I maede chnages in the UnitOfWork, thats where the errors are, Exception is thrown on "LINE 36"
