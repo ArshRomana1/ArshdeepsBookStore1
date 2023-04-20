@@ -425,3 +425,12 @@ One of my project is shwoing wrong name, I guess I have to find out how to chang
 1300
 Trying to fix the errors in the product, I mADE changes to the unitofwork.cs ,
 I can add the products not update and modify
+
+1420
+I fixed the repository.cs file by"/.Include(includeProp);" taking this off
+and my database is populating and editing and updating.
+so i am just waiting for the professor to grade it.
+now.
+
+1430
+i made chnages to js file os product to make suure the product is visible in the Database.
