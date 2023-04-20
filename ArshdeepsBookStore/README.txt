@@ -420,3 +420,8 @@ Meanwhile I maede chnages in the UnitOfWork, thats where the errors are, Excepti
 
 1359
 One of my project is shwoing wrong name, I guess I have to find out how to change that as well.
+
+4/20/2023
+1300
+Trying to fix the errors in the product, I mADE changes to the unitofwork.cs ,
+I can add the products not update and modify
